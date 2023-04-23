@@ -1,13 +1,13 @@
 <h1 align="center">Hi 🙋🏽‍♀️, I'm Nufar Maimon</h1>
 <h3 align="center">A passionate full stack/frontend developer</h3>
 
-- 🌟 I also have knowledge in Adobe software, such as Adobe XD, Illustrator and Photoshop. **These skills in design software, along with my development skills, allow me to create visually appealing and functional applications**
-
 - 🌱 I am a graduate of the Coding Academy, an intensive coding bootcamp that spans 640 hours and qualifies Full Stack developers. I have experience with **React, Vue.js, Vuex, and Node.js**
 
-- 💬 Ask me about **React, Vue.js, Vex and Node.js**
-
 - 👩🏽‍💻 My final project - airbnb marketplace using Vue, Node.js, MongoDB and Atlas **https://dreambnb.onrender.com/#/stay**
+
+- 🌟 I also have knowledge in Adobe software, such as Adobe XD, Illustrator and Photoshop. **These skills in design software, along with my development skills, allow me to create visually appealing and functional applications**
+
+- 💬 Ask me about **React, Vue.js, Vex and Node.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
