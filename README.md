@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙋🏽‍♀️, I'm Nufar Maimon</h1>
 <h3 align="center">A passionate full stack/frontend developer</h3>
 
-- 🌱 I am a graduate of the Coding Academy, an intensive coding bootcamp that spans 640 hours and qualifies Full Stack developers. I have experience with **React, Vue.js, Vuex, and Node.js**
+- 🌱 I am a graduate of the Coding Academy- an intensive coding bootcamp (640 hours) and qualifies Full Stack developers. I have experience with **React, Vue.js, Vuex, and Node.js**
 
 - 👩🏽‍💻 My final project - airbnb marketplace using Vue, Node.js, MongoDB and Atlas **https://dreambnb.onrender.com/#/stay**
 
